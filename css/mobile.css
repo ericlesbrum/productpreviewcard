@@ -15,7 +15,7 @@
     }
     .container .preview img{
         width: 100%;
-        content:url("/images/image-product-mobile.jpg");
+        content:url("images/image-product-mobile.jpg");
     }
     .container .content{
         height: 58%;
