@@ -1,6 +1,6 @@
-@import url('/css/desktop.css');
-@import url('/css/attribution.css');
-@import url('/css/mobile.css');
+@import url('desktop.css');
+@import url('attribution.css');
+@import url('mobile.css');
 :root{
     --Dark-cyan: hsl(158, 41%, 31%);
     --Dark-cyan-dark: hsl(160, 40%, 19%);
